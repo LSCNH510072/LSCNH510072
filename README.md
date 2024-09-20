@@ -1,11 +1,11 @@
 # English
-- 👋 Hi, I’m @LSCNH510072
-- These are my friends：
-- [@karsl-program](https://github.com/karsl-program). 
-- [@zmh-program](https://github.com/zmh-program)
+👋 Hi, I’m @LSCNH510072
+  These are my friends：
+  [@karsl-program](https://github.com/karsl-program). 
+  [@zmh-program](https://github.com/zmh-program)
 ##
 
-- [lscnh510072 github user](https://stats.deeptrain.net/user/lscnh510072?theme=dark)
+![lscnh510072 github user](https://stats.deeptrain.net/user/lscnh510072?theme=dark)
 
 ##
 - Project in progress：
